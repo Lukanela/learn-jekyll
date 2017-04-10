@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.2">Jekyll</generator><link href="http://localhost:4000/learn-jekyll/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/learn-jekyll/" rel="alternate" type="text/html" /><updated>2017-03-18T22:45:58+01:00</updated><id>http://localhost:4000/learn-jekyll/</id><title type="html">Learn-Jekyll Test Site</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><entry><title type="html">Another post</title><link href="http://localhost:4000/learn-jekyll/2017/03/13/another-post.html" rel="alternate" type="text/html" title="Another post" /><published>2017-03-13T19:09:48+01:00</published><updated>2017-03-13T19:09:48+01:00</updated><id>http://localhost:4000/learn-jekyll/2017/03/13/another-post</id><content type="html" xml:base="http://localhost:4000/learn-jekyll/2017/03/13/another-post.html">&lt;p&gt;This is just another post. See how to include data inside your posts:&lt;/p&gt;
+
+&lt;h2 id=&quot;beatles-discography&quot;&gt;Beatles Discography&lt;/h2&gt;
+
+&lt;ul&gt;
+
+    &lt;li&gt;&lt;b&gt;My Bonnie&lt;/b&gt; (released on 5 January 1962)&lt;/li&gt;
+
+    &lt;li&gt;&lt;b&gt;Please Please Me&lt;/b&gt; (released on 22 March 1963)&lt;/li&gt;
+
+    &lt;li&gt;&lt;b&gt;With the Beatles&lt;/b&gt; (released on 22 November 1963)&lt;/li&gt;
+
+    &lt;li&gt;&lt;b&gt;Les Beatles&lt;/b&gt; (released on November 1963)&lt;/li&gt;
+
+    &lt;li&gt;&lt;b&gt;Introducing... The Beatles&lt;/b&gt; (released on 10 January 1964)&lt;/li&gt;
+
+    &lt;li&gt;&lt;b&gt;Meet the Beatles!&lt;/b&gt; (released on 20 January 1964)&lt;/li&gt;
+
+    &lt;li&gt;&lt;b&gt;Twist and Shout&lt;/b&gt; (released on 3 February 1964)&lt;/li&gt;
+
+    &lt;li&gt;&lt;b&gt;The Beatles' Second Album&lt;/b&gt; (released on 10 April 1964)&lt;/li&gt;
+
+    &lt;li&gt;&lt;b&gt;The Beatles' Long Tall Sally&lt;/b&gt; (released on 11 May 1964)&lt;/li&gt;
+
+    &lt;li&gt;&lt;b&gt;A Hard Day's Night (US)&lt;/b&gt; (released on 26 June 1964)&lt;/li&gt;
+
+    &lt;li&gt;&lt;b&gt;A Hard Day's Night (UK)&lt;/b&gt; (released on 10 July 1964)&lt;/li&gt;
+
+    &lt;li&gt;&lt;b&gt;Something New&lt;/b&gt; (released on 20 July 1964)&lt;/li&gt;
+
+    &lt;li&gt;&lt;b&gt;Beatles for Sale&lt;/b&gt; (released on 4 December 1964)&lt;/li&gt;
+
+    &lt;li&gt;&lt;b&gt;Beatles '65&lt;/b&gt; (released on 15 December 1964)&lt;/li&gt;
+
+    &lt;li&gt;&lt;b&gt;Beatles VI&lt;/b&gt; (released on 14 June 1965)&lt;/li&gt;
+
+    &lt;li&gt;&lt;b&gt;Help! (UK)&lt;/b&gt; (released on 6 August 1965)&lt;/li&gt;
+
+    &lt;li&gt;&lt;b&gt;Help (US)&lt;/b&gt; (released on 13 August 1965)&lt;/li&gt;
+
+    &lt;li&gt;&lt;b&gt;Rubber Soul (UK)&lt;/b&gt; (released on 3 December 1965)&lt;/li&gt;
+
+    &lt;li&gt;&lt;b&gt;Rubber Soul (US)&lt;/b&gt; (released on 6 December 1965)&lt;/li&gt;
+
+    &lt;li&gt;&lt;b&gt;Yesterday and Today&lt;/b&gt; (released on 20 June 1966)&lt;/li&gt;
+
+    &lt;li&gt;&lt;b&gt;Revolver (UK)&lt;/b&gt; (released on 5 August 1966)&lt;/li&gt;
+
+    &lt;li&gt;&lt;b&gt;Revolver (US)&lt;/b&gt; (released on 8 August 1966)&lt;/li&gt;
+
+    &lt;li&gt;&lt;b&gt;Sgt. Pepper's Lonely Hearts Club Band&lt;/b&gt; (released on 1 June 1967)&lt;/li&gt;
+
+    &lt;li&gt;&lt;b&gt;Magical Mystery Tour&lt;/b&gt; (released on 27 November 1967)&lt;/li&gt;
+
+    &lt;li&gt;&lt;b&gt;The Beatles (&quot;The White Album&quot;)&lt;/b&gt; (released on 22 November 1968)&lt;/li&gt;
+
+    &lt;li&gt;&lt;b&gt;Yellow Submarine&lt;/b&gt; (released on 17 January 1969)&lt;/li&gt;
+
+    &lt;li&gt;&lt;b&gt;Abbey Road&lt;/b&gt; (released on 26 September 1969)&lt;/li&gt;
+
+    &lt;li&gt;&lt;b&gt;Let It Be&lt;/b&gt; (released on 8 May 1970)&lt;/li&gt;
+
+&lt;/ul&gt;</content><author><name></name></author><category term="beatles" /><category term="data" /><summary type="html">This is just another post. See how to include data inside your posts:</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/learn-jekyll/2017/03/13/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2017-03-13T19:09:48+01:00</published><updated>2017-03-13T19:09:48+01:00</updated><id>http://localhost:4000/learn-jekyll/2017/03/13/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/learn-jekyll/2017/03/13/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-next&quot;&gt;What’s next?&lt;/h2&gt;
+
+&lt;p&gt;See &lt;a href=&quot;/learn-jekyll/2017/03/13/another-post.html&quot;&gt;another post&lt;/a&gt; or head back to &lt;a href=&quot;/learn-jekyll/&quot;&gt;homepage&lt;/a&gt;. (Check this paragraph to see the magic behind the links.)&lt;/p&gt;</content><author><name></name></author><category term="hello world" /><category term="start" /><category term="jekyll" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
