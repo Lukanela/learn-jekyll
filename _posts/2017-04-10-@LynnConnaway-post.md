@@ -5,7 +5,6 @@ date:   2017-04-10 18:54:48 +0100
 tags: 
     - twitter
     - Lynn Connaway
-    - jekyll
 ---
 
 <a class="twitter-timeline" href="https://twitter.com/LynnConnaway">Tweety a zajímvé odkazy Lynn Connaway</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
