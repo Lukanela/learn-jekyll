@@ -26,7 +26,7 @@ Začni znovu s Jill
 
 ### Internet – studnice vědění – místa, kde čerpat inspiraci i zvyšovat motivaci:
 
-https://www.facebook.com/groups/585168858214253/
+(https://www.facebook.com/groups/585168858214253/)
 
 https://www.facebook.com/30tiDenniVyzva/
 
