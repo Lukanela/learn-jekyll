@@ -3,19 +3,25 @@ layout: page
 title: About
 ---
 
-**Pro koho je náš web určen?
+### Pro koho je náš web určen?
 
 Ženy a dívky (na věku nezáleží), které chtějí změnit svůj životní styl
 
-**Co je naším cílem?
+
+
+Co je naším cílem?
 
 Tento web by měl pomoct ženám a dívkám, které chtějí začít cvičit a začít se zdravěji stravovat. Měl by jim ukázat, jak jednotlivé cviky propojit se zdravým jídelníčkem a pravidelným spánkem. Na našem webu jednotlivé cviky vysvětlíme a ukážeme na videu, také upozorníme na chyby a nabídneme variace daných cviků. 
 
-**Název webu:
+
+
+Název webu:
 
 Začni znovu s Jill
 
-**Internet – studnice vědění – místa, kde čerpat inspiraci i zvyšovat motivaci:
+
+
+Internet – studnice vědění – místa, kde čerpat inspiraci i zvyšovat motivaci:
 
 https://www.facebook.com/groups/585168858214253/
 
@@ -28,7 +34,8 @@ http://www.fitnesstv.cz/cviceni
 https://www.30tidennivyzva.cz/
 
 
-**Co nenajdete na internetu, naleznete v knihách!
+
+Co nenajdete na internetu, naleznete v knihách!
 
 Ovládněte svůj metabolismus - Jillian Michaels
 
@@ -41,7 +48,8 @@ Fit za 15 minut denně : jednoduchý plán na 30 dnů pro skvělou kondici za 15
 Jídlo jako životní styl - Lamschová Petra, Havlíček Petr 
 
 
-**Webová inspirace (obrázky, videa, …)
+
+Webová inspirace (obrázky, videa, …)
 
 https://www.youtube.com/watch?v=1Pc-NizMgg8
 
@@ -66,7 +74,8 @@ https://foodsweatandbeers.files.wordpress.com/2011/09/shred.jpg
 http://fantanchik.ucoz.ru/pic/pic_load8/Jillian_Michaels-Killer_Abs_s1.jpg
 
 
-**Co je naší inspirací?
+
+Co je naší inspirací?
 
 https://pohybovestudiok6.cz/data/27c1147e94_59531429_o2.jpg
 
@@ -75,7 +84,8 @@ https://images-na.ssl-images-amazon.com/images/I/51ZkAPiJg4L.jpg
 http://nd06.jxs.cz/991/067/c1911b51a3_101452303_o2.jpg
 
 
-**O čem je náš web?
+
+O čem je náš web?
 - 	       Kdo je Jillian Michaels?
 -          30 day shred program
 -          Kardio cviky
@@ -88,6 +98,6 @@ http://nd06.jxs.cz/991/067/c1911b51a3_101452303_o2.jpg
 
 
 
-**Strategie zveřejňování obsahu:	
+Strategie zveřejňování obsahu:	
 
 Obsah webu bude zveřejňován nepravidelně. Příspěvky budou obsahovat videa, obrázky a informace, které budou odpovídat tématu webu a jeho cílům...
