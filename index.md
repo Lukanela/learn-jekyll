@@ -11,9 +11,9 @@ Být fit, spokojená se svým tělem, žít zdravě, ... ale nevíš co s tím?
 
 ...
 
-## Posts
+## Příspěvky
 
-See the posts:
+Prohlédni si naše příspěvky:
 
 <ul>
   {% for post in site.posts %}
