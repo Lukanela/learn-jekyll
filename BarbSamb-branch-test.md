@@ -1,0 +1,1 @@
+Zkousim tvorit a pracovat s novymi vetvemi :-)
