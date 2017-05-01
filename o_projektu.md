@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: O projektu
 ---
 
 ### Pro koho je náš web určen?
