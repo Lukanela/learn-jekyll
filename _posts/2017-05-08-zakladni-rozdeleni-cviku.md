@@ -1,7 +1,6 @@
 ---
-layout: page: 
-title: Základní rozdělení cviků
-
+layout: post
+title:  Základní rozdělení cviků
 ---
 
 Při cvičení máme tři základní kategorie:
