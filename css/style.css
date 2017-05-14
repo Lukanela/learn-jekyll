@@ -1,4 +1,5 @@
 body {
+	color: white;
 	background-image: url("http://www.publicdomainpictures.net/pictures/210000/velka/geometric-woman-runner.jpg");
 	background-size: 100%;
 	background-attachment: fixed;
@@ -23,7 +24,7 @@ body {
 }
 
 nav {
-	float: right;
+	float: left;
 	width: 15%;
 }
 
