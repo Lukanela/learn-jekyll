@@ -1,5 +1,5 @@
 body {
-	background-image: url(http://www.publicdomainpictures.net/pictures/210000/velka/geometric-woman-runner.jpg");
+	background-image: url("http://www.publicdomainpictures.net/pictures/210000/velka/geometric-woman-runner.jpg");
 	background-size: 100%;
 	background-attachment: fixed;
 }
@@ -23,7 +23,7 @@ body {
 }
 
 nav {
-	float: left;
+	float: right;
 	width: 15%;
 }
 
