@@ -1,5 +1,5 @@
 body {
-	background: url("learn-jekyll/belly-body.jpeg");
+	background-image: url("belly-body.jpeg");
 	background-size: 100%;
 	background-attachment: fixed;
 }
