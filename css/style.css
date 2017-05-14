@@ -1,6 +1,7 @@
 body {
-	background: url('https://static.pexels.com/photos/42069/belly-body-calories-diet-42069.jpeg');
+	background: url("belly-body.jpeg");
 	background-size: 100%;
+	background-attachment: fixed;
 }
 
 .wrapper {
