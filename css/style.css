@@ -1,3 +1,10 @@
+body {
+	color: white;
+	background-image: url("http://www.publicdomainpictures.net/pictures/210000/velka/geometric-woman-runner.jpg");
+	background-size: 100%;
+	background-attachment: fixed;
+}
+
 .wrapper {
 	margin: 50px auto;
 	max-width: 800px;
