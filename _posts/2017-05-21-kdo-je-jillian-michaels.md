@@ -9,8 +9,7 @@ Samozřejmě musíme představit osobu, která je hlavní inspirací pro naše c
 ## Jillan Michaels
 
 
-![Jillian Michaels s partnerkou Heidi Rhoades a jejich dětmi](/learn-jekyll/images/rodina.jpg)
-
+![Jillian Michaels s partnerkou Heidi Rhoades a jejich dětmi, Don Flood/Courtesy Jillian Michaels](/learn-jekyll/images/rodina.jpg)
 
 
 Jill je osobní trenérkou, podnikatelkou, autorkou několika knih a televizní osobností. Nejvíce na sebe upozornila asi svou účastí v soutěži *The Biggest Loser*, kde byla jednou z trenérek a také občasným vystupováním v talk show *The Doctors*. Od ledna 2016 ji diváci mohou vídat na svých televizních obrazovkách v jejím vlastním pořadu *Just Jillian*, který běží na televizním kanálu E!.
