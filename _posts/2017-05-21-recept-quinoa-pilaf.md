@@ -20,18 +20,20 @@ Je dobré ji před vařením na 5-10 minut namočit do studené vody. Pomáhá t
 
 **Doba přípravy:** 40 minut, **počet porcí:** 4-5
 
-**Co bude potřeba:**
-1 hrnek quinoy BIOHARMONIE
-2 nakrájené mrkve
-nakrájený kousek celeru
-nakrájená červená paprika
-2 lžíce olivového oleje 
-4 stroužky česneku
-¼ lžičky kurkumy (nebo kari) 
-½ lžičky mletého koriandru
-½ lžičky soli, 1 a ¾ hrnku vody
-zelené byliny dle chuti (např. rukola, petržel)
-černý pepř na dochucení
+<ul>
+<li>**Co bude potřeba:**</li>
+<li>1 hrnek quinoy BIOHARMONIE</li>
+<li>2 nakrájené mrkve</li>
+<li>nakrájený kousek celeru</li>
+<li>nakrájená červená paprika</li>
+<li>2 lžíce olivového oleje</li>
+<li>4 stroužky česneku</li>
+<li>¼ lžičky kurkumy (nebo kari)</li>
+<li>½ lžičky mletého koriandru</li>
+<li>½ lžičky soli, 1 a ¾ hrnku vody</li>
+<li>zelené byliny dle chuti (např. rukola, petržel)</li>
+<li>černý pepř na dochucení</li>
+</ul>
 
 Na pánvi rozehřejeme olivový olej a přidáme nadrobno nakrájený česnek, nakrájenou mrkev, celer a papriku. Vše dobře promícháme a necháme chvíli dusit. Poté přimícháme quinou a počkáme, než začne pukat. Přilijeme vodu, osolte a vaříme cca 12 minut, až quinoa změkne. Vmícháme zelené bylinky (rukolu, petržel) a trochu pepře. Povaříme ještě dalších 5 minut a můžeme servírovat. 
 
