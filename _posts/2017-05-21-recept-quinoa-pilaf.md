@@ -20,8 +20,9 @@ Je dobré ji před vařením na 5-10 minut namočit do studené vody. Pomáhá t
 
 **Doba přípravy:** 40 minut, **počet porcí:** 4-5
 
+
+**Co bude potřeba:**
 <ul>
-<li>**Co bude potřeba:**</li>
 <li>1 hrnek quinoy BIOHARMONIE</li>
 <li>2 nakrájené mrkve</li>
 <li>nakrájený kousek celeru</li>
@@ -43,5 +44,5 @@ Dobrou chuť!
 
 
 zdroje: 
-[Kuchařka pro dceru](https://www.kucharkaprodceru.cz/quinoa-recept-krok-za-krokem/)
+[Kuchařka pro dceru](https://www.kucharkaprodceru.cz/quinoa-recept-krok-za-krokem/),
 [Probio recepty](http://www.probio.cz)
